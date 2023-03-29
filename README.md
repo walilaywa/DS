@@ -8,7 +8,7 @@
 
 第一階段
 
-a. LEETCODE 50 (22/50)
+a. LEETCODE 50 (24/50)
 
 b. DRAGON CODE 30 -teach you about the leetcode (6/30)
 
