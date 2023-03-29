@@ -10,6 +10,6 @@
 
 a. LEETCODE 50 (22/50)
 
-b. DRAGON CODE 30 -teach you about the leetcode (4/30)
+b. DRAGON CODE 30 -teach you about the leetcode (6/30)
 
 renew date: 2023/3/29
